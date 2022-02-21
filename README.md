@@ -15,7 +15,7 @@ A discord bot that send random quote on command to the Channel.
 * Clone the repository
 
     ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/m-nobinur/discord-quote-bot.git
     ```
 
 * Setup an app on discord, [instructions.](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token)
